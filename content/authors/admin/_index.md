@@ -24,7 +24,8 @@ organizations:
     url: https://www.univ-tlse3.fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi there! My name is Gabriele Fabbro, and I'm a PhD student at [Université Toulouse III - Paul Sabatier](https://www.univ-tlse3.fr), in Toulouse (FR). 
+bio:
+
 # Interests to show in About widget
 Scientific interests:
   - Computational chemistry
