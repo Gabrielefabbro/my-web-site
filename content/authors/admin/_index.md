@@ -90,7 +90,7 @@ skills:
 social:
   - icon: twitter
     icon_pack: fab
-    link: [https://twitter.com/GeorgeCushen](https://twitter.com/GabrieleFabbro0)
+    link: https://twitter.com/GabrieleFabbro0
     label: Follow me on Twitter
     display:
       header: true
