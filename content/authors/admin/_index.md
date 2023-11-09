@@ -28,8 +28,8 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Computational chemistry
   - Quantum chemistry
+  - Coupled cluster
   - Molecular properties
   - Quantum mechanics
   - Relativistic quantum chemistry
@@ -70,7 +70,7 @@ skills:
     items:
       - name: Gym
         description: ''
-        percent: 180
+        percent: 80
         icon: person-hiking
         icon_pack: fas
       - name: Cats
@@ -110,6 +110,6 @@ social:
 highlight_name: true
 ---
 
- Hi there! My name is Gabriele Fabbro, and I'm a PhD student at [Université Toulouse III - Paul Sabatier](https://www.univ-tlse3.fr), in Toulouse (FR). I'm working at th 
-[Laboratoire de Chimie et Physique Quantiques](https://www.lcpq.ups-tlse.fr/?lang=fr) in the [THEO subgroup](https://www.lcpq.ups-tlse.fr/spip.php?rubrique33&lang=fr). I am part of the [HAMP-vQED](https://dirac.ups-tlse.fr/hamp-vqed/doku.php) team, coordinated by [Trond Saue](https://dirac.ups-tlse.fr/saue/?page=research). My research concerns the theoretical development and implementation of the relativistic Coupled cluster method for the calculation of linear response properties, i.e. second derivatives of energy, such as polarizability, magnetizability, NMR parameters etc. These developments are done on the [DIRAC](https://www.diracprogram.org/doku.php?id=start) program, a program for calculating electronic structure and molecular properties based on the Dirac equation (which is not the love equation!). 
+ Hi there! My name is Gabriele Fabbro, and I'm a PhD student at [Université Toulouse III - Paul Sabatier](https://www.univ-tlse3.fr), in Toulouse (FR). I'm working at the 
+[Laboratoire de Chimie et Physique Quantiques](https://www.lcpq.ups-tlse.fr/?lang=fr) in the [THEO subgroup](https://www.lcpq.ups-tlse.fr/spip.php?rubrique33&lang=fr). I am part of the [HAMP-vQED](https://dirac.ups-tlse.fr/hamp-vqed/doku.php) team, coordinated by [Trond Saue](https://dirac.ups-tlse.fr/saue/?page=research). My research concerns the theoretical development and implementation of the relativistic Coupled cluster method for the calculation of linear response properties, i.e. second derivatives of energy, such as polarizability, magnetizability, NMR parameters etc. These developments are done on the [DIRAC](https://www.diracprogram.org/doku.php?id=start) program, a program for calculating electronic structure and molecular properties based on the Dirac equation (which is not the love equation!). One of the main challenges of my research is the calculation of magnetic properties by exploiting relativistic linear response theory. In fact, in the relativistic formalism the calculation of magnetic properties requires the use of negative energy solutions of the Dirac equation, which are often discarded in quantum chemistry.
 {style="text-align: justify;"}
