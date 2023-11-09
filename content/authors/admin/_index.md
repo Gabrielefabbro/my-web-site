@@ -27,7 +27,7 @@ organizations:
 bio:
 
 # Interests to show in About widget
-Scientific interests:
+interests:
   - Computational chemistry
   - Quantum chemistry
   - Molecular properties
