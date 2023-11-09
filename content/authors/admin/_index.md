@@ -40,10 +40,10 @@ education:
     - course: PhD in Theoretical chemistry
       institution: Université Toulouse III - Paul Sabatier, France
       year: ongoing
-    - course: MSc in [Theoretical chemistry and computational modelling](https://www.emtccm.org)
+    - course: MSc in Theoretical chemistry and computational modelling
       institution: Università degli Studi di Trieste, Italy
       year: 2022
-    - course: BSc in [Chemistry](https://corsi.units.it/sm10/descrizione-corso)
+    - course: BSc in Chemistry
       institution: Università degli Studi di Trieste, Italy.
       year: 2020
 
