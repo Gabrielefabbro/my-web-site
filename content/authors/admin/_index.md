@@ -62,6 +62,7 @@ skills:
         description: ''
         percent: 80
         icon: square-f
+        icon_pack: fab
       - name: Latex
         description: ''
         percent: 100
