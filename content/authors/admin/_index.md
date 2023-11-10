@@ -97,7 +97,7 @@ social:
     display:
       header: true
   - icon: orcid
-    icon_pack: fas
+    icon_pack: orcid
     link: https://orcid.org/0009-0009-7625-7906
     
   # Link to a PDF of your resume/CV.
