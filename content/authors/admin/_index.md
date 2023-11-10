@@ -61,8 +61,7 @@ skills:
       - name: Fortran
         description: ''
         percent: 80
-        icon: square-f
-        icon_pack: fab
+        icon: <i class="fa-solid fa-f"></i>
       - name: Latex
         description: ''
         percent: 100
