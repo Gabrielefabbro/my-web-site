@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: Relativistic coupled-cluster response theory for closed-shell molecules.
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: PhD intervies
+
 
 location: Wowchemy HQ
 address:
