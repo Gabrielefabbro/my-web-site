@@ -61,10 +61,13 @@ skills:
       - name: Fortran
         description: ''
         percent: 80
-        icon: <i class="fa-solid fa-f"></i>
+        icon: 💾
+        icon_pack: emoji
       - name: Latex
         description: ''
         percent: 100
+        icon: 📄
+        icon_pack: emoji
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -72,18 +75,18 @@ skills:
       - name: Gym
         description: ''
         percent: 80
-        icon: person-hiking
-        icon_pack: fas
+        icon: 💪🏻
+        icon_pack: emoji
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
+        icon: 🐈
+        icon_pack: emoji
       - name: Food
         description: ''
         percent: 80
-        icon: food
-        icon_pack: fas
+        icon: 🍕
+        icon_pack: emoji
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -97,7 +100,7 @@ social:
     display:
       header: true
   - icon: orcid
-    icon_pack: orcid
+    icon_pack: fab
     link: https://orcid.org/0009-0009-7625-7906
     
   # Link to a PDF of your resume/CV.
