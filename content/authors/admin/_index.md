@@ -61,6 +61,7 @@ skills:
       - name: Fortran
         description: ''
         percent: 80
+        icon: square-f
       - name: Latex
         description: ''
         percent: 100
