@@ -4,27 +4,26 @@ title: Relativistic coupled-cluster response theory for closed-shell molecules.
 event: PhD intervies
 
 
-location: Wowchemy HQ
+location: Laboratoire de Chimie et Physique Quantiques
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Université Paul Sabatier - Bat. 3R1b4 - 118 route de Narbonne 31062 Toulouse Cedex 09, France
+  city: Toulouse
+  postcode: '31400'
+  country: France
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: PhD interview in front of the Comité de Suivi Individuel. 
+abstract: 'Description of the work done during the first 6 months of the doctorate. Description of my doctoral project and other projects.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-05-24'
+# date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-11-11'
 
-authors: []
+authors: [Gabriele Fabbro]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -34,15 +33,15 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+# links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
