@@ -39,7 +39,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: View Slides
-    link: static/PhD_interview.pdf
+    link: uploads/PhD_interview.pdf
 
  # - icon: twitter
  #   icon_pack: fab
