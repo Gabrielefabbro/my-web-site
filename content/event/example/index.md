@@ -39,12 +39,8 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: View Slides
-    url_slides: uploads/PhD_interview.pdf
+    url_slides: static/uploads/PhD_interview.pdf
 
- # - icon: twitter
- #   icon_pack: fab
- #   name: Follow
- #   url: https://twitter.com/georgecushen
 #  url_code: 'static/PhD_interview.pdf'
 #  url_pdf: 'static/PhD_interview.pdf'
 #  url_slides: 'static/PhD_interview.pdf'
