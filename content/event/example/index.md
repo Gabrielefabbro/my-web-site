@@ -1,8 +1,6 @@
----
 title: Relativistic coupled-cluster response theory for closed-shell molecules.
 
 event: PhD intervies
-
 
 location: Laboratoire de Chimie et Physique Quantiques
 address:
@@ -33,15 +31,13 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-   links:
+links:
   - icon: twitter
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-#  url_code: 'static/PhD_interview.pdf'
-#  url_pdf: 'static/PhD_interview.pdf'
-  url_slides: 'static/PhD_interview.pdf'
-# url_video: ''
+
+url_slides: 'static/PhD_interview.pdf'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -49,7 +45,6 @@ image:
 #   E.g. `slides = "example-slides"` references `content/slides/PhD_interview.pdf`.
 #   Otherwise, set `slides = ""`.
 slides: example
- 
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -57,11 +52,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 # projects:
- # - example
----
+#   - example
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
 
 
