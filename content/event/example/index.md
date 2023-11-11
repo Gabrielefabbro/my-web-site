@@ -33,11 +33,11 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-  links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-#    url: https://twitter.com/georgecushen
+ # links:
+ # - icon: twitter
+ #   icon_pack: fab
+ #   name: Follow
+ #   url: https://twitter.com/georgecushen
 #  url_code: 'static/PhD_interview.pdf'
 #  url_pdf: 'static/PhD_interview.pdf'
   url_slides: 'static/PhD_interview.pdf'
@@ -48,7 +48,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
  
 
 # Projects (optional).
