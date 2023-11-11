@@ -33,7 +33,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-  links:
+links:
  - icon: file-pdf
     icon_pack: fas
     name: View Slides
