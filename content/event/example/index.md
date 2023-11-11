@@ -34,13 +34,13 @@ image:
   focal_point: Right
 
 #  links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/georgecushen
 #  url_code: 'static/PhD_interview.pdf'
 #  url_pdf: 'static/PhD_interview.pdf'
-#  url_slides: 'static/PhD_interview.pdf'
+  url_slides: 'static/PhD_interview.pdf'
 # url_video: ''
 
 # Markdown Slides (optional).
