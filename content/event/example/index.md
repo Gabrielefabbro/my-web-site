@@ -41,10 +41,10 @@ links:
     name: View Slides
     url_slides: static/uploads/PhD_interview.pdf
 
-#  url_code: 'static/PhD_interview.pdf'
-#  url_pdf: 'static/PhD_interview.pdf'
-#  url_slides: 'static/PhD_interview.pdf'
-# url_video: ''
+#  url_code: ''
+#  url_pdf: ''
+#  url_slides: ''
+#  url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
