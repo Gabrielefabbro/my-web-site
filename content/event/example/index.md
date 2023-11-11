@@ -33,20 +33,19 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
- # links:
+  links:
+ - icon: file-pdf
+    icon_pack: fas
+    name: View Slides
+    url: 'static/PhD_interview.pdf'
  # - icon: twitter
  #   icon_pack: fab
  #   name: Follow
  #   url: https://twitter.com/georgecushen
 #  url_code: 'static/PhD_interview.pdf'
 #  url_pdf: 'static/PhD_interview.pdf'
-  url_slides: 'static/PhD_interview.pdf'
+#  url_slides: 'static/PhD_interview.pdf'
 # url_video: ''
-# La tua presentazione
-
-[![Visualizza le slides](/static/PhD_interview.pdf)](/static/PhD_interview.pdf)
-
-#Altre informazioni sulla tua presentazione...
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
