@@ -1,7 +1,7 @@
 ---
 title: Relativistic coupled-cluster response theory for closed-shell molecules.
 
-event: PhD intervies
+event: PhD interview
 
 
 location: Laboratoire de Chimie et Physique Quantiques
@@ -39,7 +39,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: View Slides
-url_slides: uploads/resume.pdf
+url: uploads/resume.pdf
 
 #  url_code: ''
 #  url_pdf: ''
