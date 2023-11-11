@@ -42,6 +42,11 @@ image:
 #  url_pdf: 'static/PhD_interview.pdf'
   url_slides: 'static/PhD_interview.pdf'
 # url_video: ''
+# La tua presentazione
+
+[![Visualizza le slides](/static/PhD_interview.pdf)](/static/PhD_interview.pdf)
+
+#Altre informazioni sulla tua presentazione...
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
