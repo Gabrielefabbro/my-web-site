@@ -38,7 +38,7 @@ image:
     icon_pack: fab
     name: Follow
 #    url: https://twitter.com/georgecushen
-# url_code: ''
+  url_code: 'static/PhD_interview.pdf'
   url_pdf: 'static/PhD_interview.pdf'
   url_slides: 'static/PhD_interview.pdf'
 # url_video: ''
