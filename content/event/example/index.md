@@ -49,7 +49,7 @@ image:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
-  slides= 'static/uploads/PhD_interview.pdf'
+  slides: 'static/uploads/PhD_interview.pdf'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
