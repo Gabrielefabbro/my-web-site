@@ -33,20 +33,20 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-  links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
+#  links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
 #    url: https://twitter.com/georgecushen
 #  url_code: 'static/PhD_interview.pdf'
 #  url_pdf: 'static/PhD_interview.pdf'
-  url_slides: 'static/PhD_interview.pdf'
+#  url_slides: 'static/PhD_interview.pdf'
 # url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   E.g. `slides = "example-slides"` references `content/slides/PhD_interview.pdf`.
 #   Otherwise, set `slides = ""`.
 slides: example
  
