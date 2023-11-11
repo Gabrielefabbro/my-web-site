@@ -39,7 +39,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: View Slides
-    link: uploads/resume.pdf
+url_slides: uploads/resume.pdf
 
 #  url_code: ''
 #  url_pdf: ''
