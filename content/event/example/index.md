@@ -33,14 +33,14 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-# links:
+  links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 # url_code: ''
-  url_pdf: '/static/PhD_interview.pdf'
-  url_slides: '/static/PhD_interview.pdf'
+  url_pdf: 'static/PhD_interview.pdf'
+  url_slides: 'static/PhD_interview.pdf'
 # url_video: ''
 
 # Markdown Slides (optional).
@@ -64,7 +64,4 @@ image:
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
-# Slides can be added in a few ways:
 
-
-# Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
