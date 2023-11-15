@@ -21,7 +21,7 @@ date: '2023-05-24'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-11-11'
+publishDate: '2023-11-15'
 
 authors: [Gabriele Fabbro]
 tags: []
