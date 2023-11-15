@@ -33,11 +33,11 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-social:
+links:
   - icon: file-pdf
     icon_pack: fas
     name: View Slides
-    link: staric/PhD_interview.pdf
+    url_slides: static/PhD_interview.pdf
 
 
 #  url_code: ''
