@@ -39,8 +39,6 @@ links:
     name: View Slides
     url: static/PhD_interview.pdf
 
-    
-  url_slides: /static/PhD_interview.pdf
 
 #  url_code: ''
 #  url_pdf: ''
