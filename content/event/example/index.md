@@ -29,20 +29,11 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-
-
 links:
   - icon: file-pdf
     icon_pack: fas
     name: View Slides
     url: uploads/PhD_interview.pdf
-
-
-#  url_code: ''
-#  url_pdf: ''
-#   url_slides: static/PhD_interview.pdf
-#  url_video: ''
-
  
 
 # Projects (optional).
