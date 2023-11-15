@@ -37,7 +37,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: View Slides
-  - link: static/PhD_interview.pdf
+  - url: static/PhD_interview.pdf
     
   url_slides: /static/PhD_interview.pdf
 
