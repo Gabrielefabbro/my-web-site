@@ -1,5 +1,5 @@
 ---
-title: Relativistic  ahaha coupled-cluster response theory for closed-shell molecules.
+title: Relativistic coupled-cluster response theory for closed-shell molecules.
 
 event: PhD interview
 
@@ -38,7 +38,7 @@ links:
     icon_pack: fas
     name: View Slides
     
-url_slides: /static/PhD_interview.pdf
+  url_slides: /static/PhD_interview.pdf
 
 #  url_code: ''
 #  url_pdf: ''
