@@ -75,14 +75,12 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Master's thesis with internship
+          company: Université Paul Sabatier, Laboratoire de Chimie et Physique Quantiques - UMR5626
+          location: Toulouse, France
+          date_start: '2022-03-01'
+          date_end: '2022-07-02'
+          description: Research project carried out jointly with Université Paul Sabatier, in fulfillment of the requirements for the master of [Theoretical Chemistry and Computational Modelling ](https://www.emtccm.org)(TCCM).
     design:
       columns: '2'
   - block: accomplishments
