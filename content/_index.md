@@ -83,7 +83,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: /static/certificate-attendance.pages.pdf
+        - url: static/certificate-attendance.pages.pdf
           date_end: '2022-06-16'
           date_start: '2022-06-12'
           title: Molecular Response Properties Summer School (MRPSS)
