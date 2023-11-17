@@ -62,25 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Master's thesis with internship
+        - title: Master's thesis with internship abroad
           company: Université Paul Sabatier, Laboratoire de Chimie et Physique Quantiques - UMR5626
           location: Toulouse, France
           date_start: '2022-03-01'
           date_end: '2022-07-02'
-          description: Research project carried out jointly with Université Paul Sabatier, in fulfillment of the requirements for the master of [Theoretical Chemistry and Computational Modelling ](https://www.emtccm.org)(TCCM).
+          description: Research project carried out jointly with Université Paul Sabatier, in fulfillment of the requirements for the master of [Theoretical Chemistry and Computational Modelling ](https://www.emtccm.org)(TCCM). The master's thesis project, supervised by [Trond Saue](https://dirac.ups-tlse.fr/saue/?page=home) (Toulouse) and [Mauro Stener](https://www2.units.it/cf/index.php/8-group-members/7-mauro-stener) (Trieste) is entitled "Analysis and calculation of electric field gradient in molecules in relativistic framework". 
     design:
       columns: '2'
   - block: accomplishments
